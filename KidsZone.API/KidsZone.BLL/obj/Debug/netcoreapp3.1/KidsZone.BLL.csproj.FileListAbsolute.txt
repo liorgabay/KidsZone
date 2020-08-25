@@ -1,0 +1,14 @@
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\KidsZone.BLL.deps.json
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\KidsZone.BLL.dll
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\KidsZone.BLL.pdb
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\KidsZone.DAL.dll
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\bin\Debug\netcoreapp3.1\KidsZone.DAL.pdb
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.csprojAssemblyReference.cache
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.AssemblyInfoInputs.cache
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.AssemblyInfo.cs
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.csproj.CoreCompileInputs.cache
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.csproj.CopyComplete
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.dll
+C:\Users\LioRozit\Documents\KidsZone\KidsZone.API\KidsZone.BLL\obj\Debug\netcoreapp3.1\KidsZone.BLL.pdb
